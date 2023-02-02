@@ -1,6 +1,6 @@
 class AyoYourMom:
     def __init__(self):
-        input.on_button_pressed(Button.A, self.a)
+        input.on_button_pressed(Button.A, a)
     def a(self):
         num1 = 5
         num2 = 6
