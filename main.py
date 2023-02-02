@@ -6,3 +6,4 @@ class AyoYourMom:
         print(num3)
 
 aym = AyoYourMom()
+print("hi")
